@@ -1,0 +1,2 @@
+hexapod_gazebo_description:hexapod_msgs:my_hexapod_control
+-DCATKIN_DEVEL_PREFIX=/home/sun/hexapod_5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sun/hexapod_5_ws/install -G Unix Makefiles
